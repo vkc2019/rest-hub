@@ -1,0 +1,21 @@
+{
+  "name": "resthub-iot",
+  "version": "1.0.0",
+  "description": "its basic web service for IoT Devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "iot",
+    "rest",
+    "hub"
+  ],
+  "author": "kishorechilakala",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.0"
+  }
+}
